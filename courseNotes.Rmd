@@ -1,0 +1,254 @@
+---
+title: "Linguistic Typology with R"
+author: "Michael Cysouw"
+output: html_notebook
+---
+
+# Packages and documentation
+
+Packages and their documentation are one of the great ways to learn new methods in R. Packages have to be installed once ("downloaded to your computer"), but loaded every time you want to uae them. For example:
+
+```{r}
+# the following command installs a package. This only needs to be done once. For this reason, the command now has a hash '#' in front, because that the command is ignored whne this script is executed. You don't want to install the package everytime you run this script.
+
+# install.packages("lingtypology")
+
+# to use the functionality in this package, you will have to load it:
+
+library(lingtypology)
+```
+
+There is a lot of help both inside R, inside the various packages, and on the internet at large. A good point to start is to ues <http://rseek.org>. Within R a good place to start is the index file of a package (a list of everyting inside a package), the vignettes (written explanations with examples - not always available), and the help page of an individual function (always necessarily available).
+
+```{r}
+# The index file of a package with all available help
+
+help(package = "lingtypology")
+
+# Vignettes, when they are available
+
+browseVignettes(package = "lingtypology")
+
+# Help page of an individual function
+
+help("wals.feature")
+?wals.feature
+```
+
+Many packages are currently developed on open-access platforms, e.g. on github. To get the newest version of a package it is sometimes necessary to install a package directly from such a source. The package "devtools" provides easy access to such packages. For example, the package <http://github.com/cysouw/qlcMatrix> can be installed as follows:
+
+```{r}
+# You might have to install the "devtools" package first
+
+# install.packages("devtools")
+
+# Installing a pacakge from GitHub now works as follows. The first part of the command "devtools::" says that you want to use a function from the package "devtools" without completely loading the package.
+
+# devtools::install_github("cysouw/qlcVisualize")
+
+# Wee will be using the following packages as well today:
+
+# install.packages(qlcMatrix)
+# devtools::install_github("cysouw/qlcData", build_vignettes = TRUE)
+```
+
+# Accessing WALS data
+
+The package `lingtypology` offers a nice interface to the data from the CLDF system <https://cldf.clld.org>. For example:
+
+```{r}
+W1 <- wals.feature("1a")
+str(W1)
+head(W1)
+```
+
+An interface for plotting is available in the function `map.feature`. For example:
+
+```{r}
+# This function tries to identify language names!
+
+map.feature(W1$language, W1$`1a`)
+
+# you can also supply your own coordinates of course
+
+map.feature(W1$language, W1$'1a', latitude = W1$latitude, longitude = W1$longitude)
+
+```
+
+Let's intersect two features!
+
+```{r}
+# download two features!
+
+W12 <- wals.feature(c("1a","2a"))
+head(W12)
+(T12 <- table(W12$'1a',W12$'2a'))
+
+# wrong order
+
+T12 <- T12[c(5,4,1,3,2),c(3,1,2)]
+
+# visualizing the intersection
+# install.packages("lattice")
+
+lattice::levelplot(T12)
+mosaicplot(T12)
+
+# correlation: there seems to be something!
+(x2 <- chisq.test(T12))
+
+# but different as you might expect!!!
+x2$expected
+x2$stdres
+lattice::levelplot(chisq.test(T12)$stdres)
+```
+
+# Recoding data
+
+It is a common problem to combine data into different categories. I propose a scheme to document such "recoding" decisions. The idea is to document the decision in a separate file, which can be added to any supplementary documentation of your research.
+
+```{r}
+# approach is implemented in this package
+
+library(qlcData)
+
+# detailed explanations here
+# vignette("recoding_nominal_data")
+
+# the idea: make a recoding template:
+write.recoding(data = W12, attributes = c("1a","2a"), file = "scripts/recodingW12.yml")
+newW12 <- recode("scripts/recodingW12.yml", W12)
+```
+
+# Large-scale similarities
+
+How to compare languages across a wide variety of features, e.g. all features from WALS? The problem is that traditional "similarity" measures (like `as.dist` in `R`) need numerical data (but WALS, and all of typology, is nominal data). Other approaches working with nominal data (like correspondence analysis, e.g. `MCA` in the package `FactoMineR`; check it out!) have not very much control over the actual similarities that are computed in the background.
+
+I wrote a package based on sparse matrix algebra to do this: `qlcMatrix`. It is quite fast with even really large datasets. I'm still writing on an explanation of the underlying math. A first draft is available on the GitHub page.
+
+```{r}
+
+library(qlcMatrix)
+
+# the data from WALS (an old version) is included as an example in this package
+data(wals)
+help(wals)
+
+# to cut to the cake: there is a function in qlcMatrix to approach such data
+# similarities between features:
+system.time(s <- sim.att(wals$data, method="variation"))
+rownames(s) <- colnames(wals$data)
+plot(hclust(as.dist(1-s), method = "ward.D"), cex = 0.5)
+
+# or similarities between languages:
+system.time( s <- sim.obs(wals$data))
+
+# more in the examples of the help files:
+help(sim.nominal)
+```
+
+# Visualizing similarities
+
+Just a few words on different ways to visualize similarities. There are dozens of possibilities, and they all show different views on the same data. So all such visualization have to be taken with great care. Two widespread approaches are (hierarchical) clustering and dimensionality reduction. There are dozens of packages in R with implementations of such approaches, so we will only scratch the surface here.
+
+```{r}
+# only the word order features from WALS
+s <- sim.att(wals$data[79:92], method = "variation")
+
+par(mfcol = c(3,3))
+plot(hclust(as.dist(1-s), method = "single"))
+plot(hclust(as.dist(1-s), method = "complete"))
+plot(hclust(as.dist(1-s), method = "average"))
+plot(hclust(as.dist(1-s), method = "ward.D2"))
+plot(hclust(as.dist(1-s), method = "median"))
+plot(hclust(as.dist(1-s), method = "centroid"))
+par(mfcol = c(1,1))
+
+# Classic multidimensional scaling
+
+points <- cmdscale(as.dist(1-s))
+nms <- substr(names(wals$data[79:92]),1,3)
+
+plot(points, type = "n")
+text(points, labels = nms)
+```
+
+# Semantic maps
+
+Drawing semantic maps.
+
+```{r}
+library(qlcVisualize)
+
+# the function lmap for level-map
+
+# semantic map example with the data from Haspelmath 1997
+# location of points via multidimensional scaling of complete data
+data(haspelmath)
+d <- dist(haspelmath)
+p <- MASS::isoMDS(d)$points
+
+# testing boundary parameters for lmap
+boundary(p)
+boundary(p, density = 0.004, box = 0.15, tightness = 8)
+
+# labels to be plotted instead of points
+text <- gsub("\\.", "\n", rownames(haspelmath))
+
+# show a few languages
+# using a quick dummy function to set all parameters
+tmp <- function(columns) {
+  lmap(p, haspelmath[,columns]
+    , levels = 0.1, labels = text
+    , density = 0.004, box = 0.15, tightness = 8
+    , lambda = 0.1, note = FALSE)
+}
+
+par(mfcol = c(2,3))
+tmp(1:3)
+tmp(4:6)
+tmp(7:9)
+tmp(10:12)
+tmp(13:17)
+tmp(18:22)
+par(mfcol = c(1,1))
+```
+
+# Parallel texts
+
+The analysis of parallel texts is a large field in computer science, and most are not available through R (check out `fast_align` <https://github.com/clab/fast_align> as a simple and fast approach). Some simple analyses are available in the `qlcMatrix` package.
+
+```{r}
+library(qlcMatrix)
+
+# a few bibles from the parallel bible project are included as example
+data(bibles)
+
+# compare all words between two languages using sparse matrix algebra
+system.time(sim <- sim.words(bibles$eng, bibles$deu))
+
+# look at similar words
+sort(sim["your",], decreasing = TRUE)[1:10]
+
+# visualise the relation between two parallel sentences
+show_align <- function(id, t1, t2, data = sim) {
+	
+	w1 <- tolower(strsplit(t1[id], " ")[[1]])
+	w2 <- tolower(strsplit(t2[id], " ")[[1]])
+
+	lattice::levelplot(as.matrix(data[w1,w2])
+		, cex=.5
+		, xlab = ""
+		, ylab = ""
+		, scales=list(x=list(rot=90))
+		, col.regions = gray(100:0/100)
+		)
+}
+
+show_align("41001004", bibles$eng, bibles$deu, sim)
+```
+
+
+
+
+

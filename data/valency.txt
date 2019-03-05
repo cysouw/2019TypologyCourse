@@ -1,0 +1,190 @@
+MEANING	RULE	Ainu	Alaskan Yupik	Arabic	Balinese	Bezhta	Bora	Chintang	Emai	Even	Hoocąk	Icelandic	Italian	Jakarta Indonesian	Jaminjung	Japanese standard	Mandarin	Mandinka	Mapudungun	Nen	Nǀuu	Russian	Sliammon	Sri Lanka Malay	Xârâcùù	Yaqui	Yoruba	Zenzontepec Chatino
+APPEAR	appearer	subj.V	NA	V.subj NP-nom	NA	NP-abs & absAgr.V	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NA	V.subj	Ø	NP-abs subj.V	NA	NA	Ø	V.subj	NP-abs & V.subj	NA	NA	V.sbj	NA	Ø	Ø	Ø	NA
+ASK FOR	askee	obj.V	NA	NP-acc	NA	NA	NP-acc	NA	NA	NP-acc	NA	NP-acc	a+NP	Ø	NA	NA	NA	Ø	NA	NA	ng+NP	NA	V.obj	NP-loc	xù+NP	NP-dir	NA	NA
+ASK FOR	asker	subj.V	NA	V.subj NP-nom	Ø	NA	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	Ø	NP-erg subj.V	NA	NA	Ø	NA	NA	Ø	NA	V.sbj	Ø	Ø	Ø	NA	NA
+ASK FOR	requested thing	NA	NA	NP-acc	Ø	NA	NP-acc	NA	NA	NP-all	und.V	um+NP-acc	Ø	Ø	NP-dat	NA	NA	NP+la	NA	NA	Ø	NA	NA	NP-acc	Ø	NP-acc	NA	NA
+BE A HUNTER	hunter	subj.V	NA	NA	Ø	NA	NA	NA	NA	NP-nom V.subj	NA	NA	V.subj	Ø	NP-abs	NA	NA	NA	V.subj	NA	Ø	NA	NA	Ø	Ø	Ø	NA	NA
+BE DRY	dry thing	subj.V	NP-abs V.subj	NA	Ø	NA	Ø (NP-nom)	NA	NA	NP-nom V.subj	und.V	NP-nom & V.subj	V.subj	Ø	NP-abs subj.V	NA	NA	Ø	V.subj	NP-abs & obj.V	Ø	NA	V.sbj	Ø	Ø	Ø	Ø	NA
+BE HUNGRY	hungry person	subj.V	NP-abs V.subj	NA	Ø	NP-abs & absAgr.V	Ø (NP-nom)	NA	NA	NP-nom V.subj	und.V	NP-acc	V.subj	Ø	NA	NA	NA	Ø	V.subj	NP-abs & obj.V	Ø	NA	V.sbj	NP-dat	NA	Ø	Ø	NA
+BE ILL	sick person	subj.V	NA	NA	NA	NP-abs & absAgr.V	NA	NA	NA	NA	act.V	NP-nom & V.subj	V.subj	Ø	NP-abs subj.V	NA	NA	Ø	V.subj	NP-abs & obj.V	Ø	NA	V.sbj	NP-dat	Ø	Ø	Ø	NA
+BE SAD	sad person	subj.V	NA	NA	Ø	NP-abs & absAgr.V	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	Ø	NP-abs subj.V	NA	NA	Ø	V.subj	NP-abs & obj.V	NA	NA	V.sbj	NP-dat	Ø	Ø	Ø	NA
+BEAT	beatee	obj.V	NP-abs V.obj	NP-acc	Ø	NA	NP-acc	NA	NA	NP-acc	und.V	NP-acc	Ø	Ø	NP-abs obj.V	NA	NA	Ø	V.obj	NP-abs & obj.V	Ø	NA	V.obj	NP-dat	Ø	NP-acc	Ø	jiʔį̀+NP
+BEAT	beater	subj.V	NP-rel V.subj	V.subj NP-nom	Ø	NA	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	Ø	NP-erg subj.V	NA	NA	Ø	V.subj	NP-erg & V.subj	Ø	NA	V.sbj	Ø	Ø	Ø	Ø	Ø
+BEAT	beating instrument	instr	NP-perl	bi+NP-gen	aji+NP	NA	NP-instr	NA	NA	NP-instr	unmarked NP	með+NP-dat	con+NP	NA	NP-erg/instr	NA	NA	NP+la	NP+mew	NP-abl	NA	NA	NA	NA	ngê+NP	NP-instr	NA	jiʔį̀+NP
+BLINK	blinker	subj.V	NP-rel V.subj	V.subj NP-nom	NA	NA	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	NA	NP-abs subj.V	NA	NA	NA	V.subj	NA	NA	NP-nom & V.subj	V.sbj	NA	Ø	NA	Ø	Ø
+BOIL	boiled thing	NA	NP-abs V.subj	V.subj NP-nom	NA	NA	Ø (NP-nom)	NA	NA	NA	und.V	NP-nom & V.subj	V.subj	Ø	NP-abs subj.V	NA	NA	Ø	V.subj	NP-abs & V.subj	Ø	NA	V.sbj	NP-acc	Ø	Ø	Ø	NA
+BREAK	breaker	subj.V	NP-rel V.subj	V.subj NP-nom	Ø	NA	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	Ø	NP-erg subj.V	NA	NA	Ø	V.subj	NP-erg & V.subj	Ø	NA	V.sbj	Ø	Ø	Ø	Ø	NA
+BREAK	breaking instrument	instr	NP-perl	bi+NP-gen	aji+NP	NA	NP-instr	NA	NA	NP-instr	NA	með+NP-dat	con+NP	NA	NP-erg/instr	NA	NA	NP+la	NP+mew	NA	nla+NP	NA	NA	NA	ngê+NP	NA	NA	NA
+BREAK	broken thing	obj.V	NP-abs V.obj	NP-acc	Ø	NA	NP-acc	NA	NA	NP-acc	und.V	NP-acc	Ø	Ø	NP-abs obj.V	NA	NA	Ø	V.obj	NP-abs & obj.V	Ø	NA	V.obj	NA	Ø	NP-acc	Ø	NA
+BRING	bringer	NA	NA	V.subj NP-nom	NA	NA	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NA	V.subj	Ø	NP-erg subj.V	NA	NA	Ø	V.subj	NP-erg & V.subj	NA	NA	V.sbj	Ø	Ø	Ø	Ø	Ø
+BRING	bringing recipient	NA	NA	ʾilâ+NP-gen	NA	NA	NP-adl	NA	NA	NP-dat	NA	NA	a+NP	NA	NP-dat V=pro.dat	NA	NA	NP+ye	V.obj	NP-dat	NA	NA	NA	NA	xù+NP	NP-dir	NA	jiʔį̀+NP
+BRING	brought thing	NA	NA	NP-acc	NA	NA	NP-acc	NA	NA	NP-acc	und.V	NA	Ø	Ø	NP-abs obj.V	NA	NA	NP+ti	Ø	NP-abs & obj.V	NA	NA	V.obj	NP-acc	Ø	NP-acc	Ø	jiʔį̀+NP
+BUILD	builder	subj.V	NA	V.subj NP-nom	Ø	NA	Ø (NP-nom)	NA	NA	NP-nom V.subj	NA	NP-nom & V.subj	V.subj	Ø	NP-erg subj.V	NA	NA	Ø	NA	NP-erg & V.subj	Ø	NA	V.sbj	Ø	Ø	Ø	Ø	NA
+BUILD	building material	instr	NA	min+NP-gen	aji+NP	NA	NP-abl	NA	NA	NP-abl	NA	úr+NP-dat	di+NP	NA	NA	NA	NA	NP+la	NA	NA	nla+NP	NA	NA	NA	ngê+NP	NA	fi+NP	NA
+BUILD	built thing	obj.V	NA	NP-acc	Ø	NA	NP-acc	NA	NA	NP-acc	NA	NP-acc	Ø	Ø	NP-abs obj.V	NA	NA	Ø	NA	NP-abs & obj.V	Ø	NA	V.obj	NA	Ø	NP-acc	Ø	NA
+BURN	burnt thing	subj.V	NA	V.subj NP-nom	Ø	NP-abs & absAgr.V	Ø (NP-nom)	NA	NA	NP-nom V.subj	und.V	NP-nom & V.subj	V.subj	NA	NP-abs subj.V	NA	NA	Ø	V.subj	NP-abs & V.subj	Ø	NA	V.sbj	NA	Ø	NA	Ø	NA
+CARRY	carried thing	obj.V	NP-abs V.obj	NP-acc	Ø	NA	NP-acc	NA	NA	NP-acc	act.V	NP-acc	Ø	Ø	NP-abs obj.V	NA	Ø	NA	NA	NP-abs & obj.V	Ø	NA	V.obj	Ø	Ø	NP-acc	Ø	NA
+CARRY	carrier	subj.V	NP-rel V.subj	V.subj NP-nom	Ø	NA	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	Ø	NP-erg subj.V	NA	Ø	NA	NA	NP-erg & V.subj	Ø	NA	V.sbj	Ø	Ø	Ø	Ø	NA
+CARRY	carrying goal	dat	NP-all	ʾilâ+NP-gen	ke+NP	NA	NP-adl	NA	NA	NP-loc	-eeja/LOC	á+NP-acc	in/a/su+NP	NA	NP-all	NA	NA	NA	NA	NP-dat	NA	NA	NA	NP-dat	ti/tö+NP	NP-loc	NA	NA
+CLIMB	climber	subj.V	NP-abs V.subj	V.subj NP-nom	Ø	NA	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	Ø	NP-abs subj.V	NA	NA	Ø	V.subj	NP-abs & V.subj	Ø	NA	V.sbj	NA	Ø	Ø	Ø	Ø
+CLIMB	climbing goal	loc/all/abl	NP-all	NP-acc	Ø	NA	NP-acc	NA	NA	NP-acc	und.V	upp+NP-acc	Ø	Ø	NP-all	NA	NA	LOC	NP+mew	NA	Ø	NA	obl-NP	NA	Ø	NP-loc	Ø	jiʔį̀+NP
+COOK	cooked food	NA	NP-abm	NP-acc	NA	NA	NA	NA	NA	NA	und.V	NA	Ø	Ø	NP-abs obj.V	NA	Ø	Ø	V.obj	NP-abs & obj.V	Ø	NA	V.obj	NA	Ø	NP-acc	Ø	NA
+COOK	cooker	NA	NP-abs V.subj	V.subj NP-nom	NA	NA	NA	NA	NA	NA	act.V	NA	V.subj	Ø	NP-erg subj.V	NA	Ø	Ø	V.subj	NP-erg & V.subj	Ø	NA	V.sbj	Ø	Ø	Ø	Ø	NA
+COUGH	cougher	subj.V	NP-abs V.subj	V.subj NP-nom	Ø	NP-erg	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	Ø	NP-abs subj.V	NA	NA	Ø	V.subj	NP-abs & V.subj	Ø	NA	V.sbj	Ø	Ø	Ø	Ø	NA
+COVER	cover	NA	NP-abs V.obj	bi+NP-gen	aji+NP	NA	NP-adl	NA	NA	NP-instr	NA	NP-acc	con+NP	NA	NP-erg/instr	NA	NA	NP+la	NA	NP-abl	nla+NP	NP-ins	NA	NA	ngê+NP	NP-instr	fi+NP	NA
+COVER	covered thing	obj.V	NP-abm	NP-acc	Ø	NA	NP-acc	NA	NA	NP-acc	und.V	yfir+NP-acc	Ø	Ø	NP-abs obj.V	NA	NA	Ø	NA	NP-abs & obj.V	Ø	NP-acc	V.obj	NP-acc	Ø	NP-acc	Ø	NA
+COVER	coverer	subj.V	NP-rel V.subj	V.subj NP-nom	Ø	NA	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	Ø	NP-erg subj.V	NA	NA	Ø	NA	NP-erg & V.subj	Ø	NP-nom & V.subj	V.sbj	Ø	Ø	Ø	Ø	NA
+CRY	crier	NA	NA	V.subj NP-nom	NA	NP-abs & absAgr.V	NA	NA	NA	NA	act.V	NA	V.subj	Ø	NP-abs subj.V	NA	NA	Ø	V.subj	NP-abs & V.subj	Ø	NA	V.sbj	Ø	Ø	Ø	Ø	NA
+CUT	cut thing	obj.V	NP-abs V.obj	NP-acc	Ø	NP-abs & absAgr.V	NP-acc	NA	NA	NP-acc	und.V	NP-acc	Ø	Ø	NP-abs obj.V	NA	NA	Ø	V.obj	NP-abs & obj.V	Ø	NA	V.obj	NP-acc	Ø	NP-acc	Ø	jiʔį̀+NP
+CUT	cutter	subj.V	NP-rel V.subj	V.subj NP-nom	Ø	NP-erg	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	Ø	NP-erg subj.V	NA	NA	Ø	V.subj	NP-erg & V.subj	Ø	NA	V.sbj	Ø	Ø	Ø	Ø	Ø
+CUT	cutting instrument	instr	NP-perl	bi+NP-gen	aji+NP	NP-instr	NP-instr	NA	NA	NP-instr	NA	með+NP-dat	con+NP	pake+NP	NP-erg/instr	NA	NA	NP+la	NP+mew	NP-abl	NA	NA	NA	NA	ngê+NP	NA	NA	lóʔò+NP
+DIE	dieer	subj.V	NP-abs V.subj	V.subj NP-nom	Ø	NP-abs & absAgr.V	Ø (NP-nom)	NA	NA	NP-nom V.subj	und.V	NP-nom & V.subj	V.subj	Ø	NP-abs subj.V	NA	NA	Ø	V.subj	NP-abs & obj.V	Ø	NA	V.sbj	Ø	Ø	Ø	Ø	Ø
+DIG	digger	NA	NA	NA	NA	NA	NA	NA	NA	NA	act.V	NA	V.subj	Ø	NP-erg subj.V	NA	NA	Ø	V.subj	NP-erg & V.subj	Ø	NA	V.sbj	Ø	Ø	Ø	Ø	Ø
+DIG	dug up thing	NA	NA	NA	NA	NA	NA	NA	NA	NA	und.V	NA	Ø	Ø	NP-abs obj.V	NA	NA	Ø	NA	NP-abs & obj.V	Ø	NA	obl-NP	NA	Ø	NA	Ø	jiʔį̀+NP
+DRESS	dressee	obj.V	NP-abs V.obj	NP-acc	Ø	NP-abs & absAgr.V	NP-acc	NA	NA	NP-acc	NA	NP-acc	Ø	NA	NA	NA	NA	NP+la	V.obj	NP-abs & obj.V	Ø	NA	V.obj	NA	Ø	NA	fún+NP	NA
+DRESS	dresser	subj.V	NP-rel V.subj	V.subj NP-nom	Ø	NP-erg	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	NA	NA	NA	NA	Ø	V.subj	NP-erg & V.subj	Ø	NA	V.sbj	Ø	Ø	NA	Ø	NA
+EAT	eaten food	obj.V	NP-abs V.obj	NP-acc	Ø	NP-abs & absAgr.V	NP-acc	NA	NA	NP-acc	und.V	NP-acc	Ø	Ø	NP-abs obj.V	NA	NA	Ø	NA	NP-abs & obj.V	Ø	NA	NA	NP-acc	Ø	NP-acc	Ø	jiʔį̀+NP
+EAT	eater	subj.V	NP-rel V.subj	V.subj NP-nom	Ø	NP-erg	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	Ø	NP-erg subj.V	NA	NA	Ø	NA	NP-erg & V.subj	Ø	NA	NA	Ø	Ø	Ø	Ø	Ø
+FALL	fallee	subj.V	NA	V.subj NP-nom	NA	NP-abs & absAgr.V	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NA	V.subj	Ø	NP-abs subj.V	NA	NA	Ø	V.subj	NP-abs & V.subj	Ø	NA	V.sbj	Ø	NA	Ø	Ø	NA
+FEAR	fear stimulus	obj.V	NP-abs V.obj	NP-acc	Ø	NP-poss	NP-acc	NA	NA	NP-instr	und.V	við+NP-acc	Ø	Ø	NP-abs obj.V	NA	NA	NP+la	V.obj	NP-erg & V.subj	NA	NP-gen	V.obj	NA	Ø	NP-acc	Ø	jiʔį̀+NP
+FEAR	fearer	subj.V	NP-rel V.subj	V.subj NP-nom	Ø	NP-abs & absAgr.V	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	Ø	NP-erg subj.V	NA	NA	Ø	V.subj	NP-abs & obj.V	Ø	NP-nom & V.subj	V.sbj	NA	Ø	Ø	Ø	Ø
+FEEL COLD	freeze	NA	NA	NA	NA	NA	Ø (NP-nom)	NA	NA	NA	NA	NA	NA	NA	NP-erg subj.V	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+FEEL COLD	freezing person	subj.V	NA	NA	Ø	NP-abs & absAgr.V	Ø (NP-nom)	NA	NA	NP-nom V.subj	und.V	NP-dat	V.subj	NA	NP-abs obj.V	NA	NA	NA	V.subj	NP-abs & obj.V	Ø	NA	V.sbj	NA	Ø	NA	Ø	NA
+FEEL PAIN	pain locus	subj.V	NA	min+NP-gen	Ø	NA	Ø (NP-nom)	NA	NA	NP-nom	und.V	í+NP-dat	in/a/su+NP	NA	NA	NA	NA	Ø	NA	NP-erg & V.subj	NA	NA	V.sbj	Ø	Ø	NP-loc	NA	NA
+FEEL PAIN	pain-feeler	subj.V	NA	V.subj NP-nom	Ø	NA	NP-acc	NA	NA	NP-gen	und.V	NP-dat	V.subj	Ø	NP-abs subj.V	NA	NA	Ø	NA	NP-abs & obj.V	Ø	NA	V.sbj	NA	NA	Ø	NA	NA
+FILL	filled container	obj.V	NP-abs V.obj	NP-acc	Ø	NA	NP-acc	NA	NA	NP-acc	und.V	NP-acc	Ø	ke+NP	NP-loc/-all	NA	NA	Ø	V.obj	NP-abs & obj.V	Ø	NP-acc	V.obj	NP-acc	Ø	NP-acc	NA	NA
+FILL	filler	subj.V	NP-rel V.subj	V.subj NP-nom	Ø	NA	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	Ø	NP-erg subj.V	NA	NA	Ø	V.subj	NP-erg & V.subj	Ø	NP-nom & V.subj	V.sbj	Ø	Ø	Ø	NA	NA
+FILL	filling material	NA	NP-abm	bi+NP-gen	aji+NP	NA	NP-abl	NA	NA	NP-instr	unmarked NP	af+NP-dat	con+NP	Ø	NP-abs obj.V	NA	NA	NP+la	NP+mew	NP-abl	nla+NP	NP-ins	NA	NP-acc	ngê+NP	NP-instr	NA	NA
+FOLLOW	followee	NA	NP-abs V.obj	NP-acc	Ø	NP-comit	NP-acc	NA	NA	NP-acc	und.V	NP-dat	Ø	Ø	NP-abs obj.V	NA	NA	Ø	V.obj	NP-abs & obj.V	Ø	NA	V.obj	NP-abl	Ø	NP-acc	Ø	jiʔį̀+NP
+FOLLOW	follower	subj.V	NP-rel V.subj	V.subj NP-nom	Ø	NP-abs & absAgr.V	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	Ø	NP-erg subj.V	NA	NA	Ø	V.subj	NP-erg & V.subj	Ø	NA	V.sbj	Ø	Ø	Ø	Ø	Ø
+FRIGHTEN	frightenee	obj.V	NA	NP-acc	Ø	NP-abs & absAgr.V	NP-acc	NA	NA	NP-acc	und.V	NP-acc	Ø	NA	NP-abs obj.V	NA	NA	Ø	V.obj	NA	Ø	NA	V.obj	NP-acc	Ø	NP-acc	Ø	NA
+FRIGHTEN	frightener	subj.V	NA	V.subj NP-nom	Ø	NP-erg	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	NA	NP-erg subj.V	NA	NA	Ø	V.subj	NA	Ø	NA	V.sbj	Ø	Ø	Ø	Ø	NA
+GET	received thing	obj.V	NA	ʿalâ+NP-gen	NA	NA	NA	NA	NA	NA	und.V	NA	Ø	Ø	NP-abs obj.V	NA	NA	Ø	V.obj	NP-abs & obj.V	Ø	NA	V.obj	NA	Ø	NP-acc	Ø	jiʔį̀+NP
+GET	receiver	subj.V	NA	V.subj NP-nom	NA	NA	NA	NA	NA	NA	act.V	NA	V.subj	Ø	NP-erg subj.V	NA	NA	Ø	V.subj	NP-erg & V.subj	Ø	NA	V.sbj	NA	Ø	Ø	Ø	Ø
+GET	receiving source	NA	NA	min+NP-gen	NA	NA	NA	NA	NA	NA	NA	NA	da+NP	NA	NA	NA	NA	NP+bulu	NA	NP-loc	NA	NA	NA	NA	taa+NP	NA	NA	NA
+GIVE	gift	NA	NP-abs V.obj	NP-acc	Ø	NA	NP-adl	NA	NA	NP-acc	und.V	NP-acc	Ø	Ø	NP-abs	NA	NA	Ø	Ø	NP-abs	Ø	NA	obl-NP	NA	Ø	NP-acc	ní+NP	jiʔį̀+NP
+GIVE	giver	subj.V	NP-rel V.subj	V.subj NP-nom	Ø	NA	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	Ø	NP-erg subj.V	NA	NA	Ø	V.subj	NP-erg & V.subj	Ø	NA	V.sbj	Ø	Ø	Ø	Ø	Ø
+GIVE	giving recipient	obj.V	NP-all	NP-acc	ke+NP	NA	NP-acc	NA	NA	NP-dat	und.V	NP-dat	a+NP	Ø	NP-abs obj.V	NA	NA	Ø	V.obj	NP-dat & obj.V	NP-dat	NA	V.obj	NA	xù+NP	NP-acc	Ø	jiʔį̀+NP
+GO	goer	subj.V	NP-abs V.subj	NA	NA	NP-abs & absAgr.V	Ø (NP-nom)	NA	NA	NP-nom V.subj	NA	NP-nom & V.subj	V.subj	NA	NP-abs subj.V	NA	NA	NA	V.subj	NP-abs & V.subj	Ø	NA	V.sbj	NA	Ø	Ø	Ø	Ø
+GO	going goal	loc/all/abl	NP-all	NA	NA	NP-NEAR	NP-adl	NA	NA	NP-loc	NA	á+NP-acc	in/a/su+NP	NA	NP-all	NA	NA	NA	NP+mew	NA	Ø	NA	NA	NA	ti/tö+NP	NP-dir	sí+NP	jiʔį̀+NP
+GRIND	grinder	NA	NP-rel V.subj	V.subj NP-nom	NA	NA	Ø (NP-nom)	NA	NA	NA	act.V	NA	V.subj	Ø	NP-erg subj.V	NA	NA	Ø	V.subj	NA	Ø	NA	NA	Ø	Ø	Ø	Ø	Ø
+GRIND	grinding instrument	NA	NA	bi+NP-gen	NA	NA	NP-instr	NA	NA	NA	NA	NA	con+NP	NA	NP-erg/instr	NA	NA	NP+la	NA	NA	NA	NA	NA	NP-abl	ngê+NP	NA	NA	NA
+GRIND	ground thing	NA	NP-abs V.obj	NP-acc	NA	NA	NP-acc	NA	NA	NA	und.V	NA	Ø	Ø	NP-abs obj.V	NA	NA	Ø	V.obj	NA	Ø	NA	NA	NP-acc	Ø	NP-acc	Ø	jiʔį̀+NP
+HEAR	heard sound	obj.V	NP-abs V.obj	NP-acc	NA	NA	NP-acc	NA	NA	NA	und.V	í+NP-dat	Ø	Ø	NP-abs obj.V	NA	NA	Ø	V.obj	NP-abs & obj.V	Ø	NA	V.obj	NP-acc	Ø	NP-acc	Ø	jiʔį̀+NP
+HEAR	hearer	subj.V	NP-rel V.subj	V.subj NP-nom	NA	NA	Ø (NP-nom)	NA	NA	NA	act.V	NP-nom & V.subj	V.subj	Ø	NP-erg subj.V	NA	NA	Ø	V.subj	NP-erg & V.subj	Ø	NA	V.sbj	NP-dat	Ø	Ø	Ø	Ø
+HELP	helpee	obj.V	NP-abs V.obj	NP-acc	Ø	NP-lat	NP-acc	NA	NA	NP-acc	und.V	NP-dat	Ø	Ø	NP-abs obj.V	NA	NA	Ø	V.obj	NP-dat & obj.V	Ø	NP-dat	V.obj	NP-dat	Ø	NP-acc	Ø	jiʔį̀+NP
+HELP	helper	subj.V	NP-rel V.subj	V.subj NP-nom	Ø	NP-erg	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	Ø	NP-erg subj.V	NA	NA	Ø	V.subj	NP-erg & V.subj	Ø	NP-nom & V.subj	V.sbj	Ø	Ø	Ø	Ø	Ø
+HIDE	hidden thing	NA	NA	NA	Ø	NA	NA	NA	NA	NP-acc	und.V	NP-acc	Ø	NA	NP-abs obj.V	NA	NA	Ø	Ø	NP-abs & obj.V	Ø	NA	V.obj	NA	Ø	NP-acc	Ø	NA
+HIDE	hider	subj.V	NA	NA	Ø	NA	NA	NA	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	NA	NP-erg subj.V	NA	NA	Ø	V.subj	NP-erg & V.subj	Ø	NA	V.sbj	NA	Ø	Ø	Ø	NA
+HIDE	hiding affectee	obj.V	NA	NA	uli+NP	NA	NA	NA	NA	NP-abl	NA	fyrir+NP-dat	a+NP	NA	NA	NA	NA	NP+ma	V.obj	NA	NA	NA	NA	NA	taa+NP	NA	NA	NA
+HIT	hittee	obj.V	NP-abs V.obj	NP-acc	Ø	NA	NP-acc	NA	NA	NP-acc	und.V	NP-acc	Ø	Ø	NP-abs obj.V	NA	NA	Ø	V.obj	NP-abs & obj.V	NA	NA	V.obj	NP-dat	Ø	NP-acc	Ø	jiʔį̀+NP
+HIT	hitter	subj.V	NP-rel V.subj	V.subj NP-nom	Ø	NA	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	Ø	NP-erg subj.V	NA	NA	Ø	V.subj	NP-erg & V.subj	NA	NA	V.sbj	Ø	Ø	Ø	Ø	Ø
+HIT	hitting instrument	instr	NP-perl	bi+NP-gen	aji+NP	NA	NP-instr	NA	NA	NP-instr	NA	með+NP-dat	con+NP	NA	NA	NA	NA	NP+la	NP+mew	NP-abl	NA	NA	NA	NA	ngê+NP	NA	NA	lóʔò+NP
+HUG	huggee	obj.V	NP-abs V.obj	NP-acc	Ø	NP-lat	NP-acc	NA	NA	NP-acc	und.V	NP-acc	Ø	Ø	NP-abs obj.V	NA	NA	NP+la	V.obj	NP-abs & obj.V	NA	NA	V.obj	NP-acc	Ø	NP-acc	Ø	jiʔį̀+NP
+HUG	hugger	subj.V	NP-rel V.subj	V.subj NP-nom	Ø	NP-erg	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	Ø	NP-erg subj.V	NA	NA	Ø	V.subj	NP-erg & V.subj	NA	NA	V.sbj	Ø	Ø	Ø	Ø	Ø
+JUMP	jumper	subj.V	NP-abs V.subj	V.subj NP-nom	Ø	NA	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	Ø	NP-abs subj.V	NA	NA	Ø	V.subj	NP-abs & V.subj	Ø	NA	V.sbj	Ø	Ø	Ø	Ø	NA
+KILL	killee	obj.V	NA	NP-acc	Ø	NP-abs & absAgr.V	NP-acc	NA	NA	NP-acc	und.V	NP-acc	Ø	Ø	NP-abs obj.V	NA	NA	Ø	V.obj	NP-abs & obj.V	Ø	NA	V.obj	NP-acc	Ø	NP-acc	Ø	NA
+KILL	killer	subj.V	NA	V.subj NP-nom	Ø	NP-erg	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	Ø	NP-erg subj.V	NA	NA	Ø	V.subj	NP-erg & V.subj	Ø	NA	V.sbj	Ø	Ø	Ø	Ø	NA
+KILL	killing instrument	instr	NA	bi+NP-gen	aji+NP	NP-instr	NP-instr	NA	NA	NP-instr	NA	með+NP-dat	con+NP	NA	NP-erg/instr	NA	NA	NP+la	NP+mew	NP-abl	NA	NA	NA	NA	ngê+NP	NA	NA	NA
+KNOW	knower	subj.V	NA	V.subj NP-nom	Ø	NP-lat	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	Ø	NP-abs subj.V	NA	NA	Ø	V.subj	NP-abs & obj.V	Ø	NA	V.sbj	NP-dat	Ø	Ø	Ø	NA
+KNOW	known thing	obj.V	NA	NP-acc	Ø	NP-abs & absAgr.V	NP-acc	NA	NA	NP-acc	und.V	NP-acc	Ø	Ø	NP-dat V=pro.dat	NA	NA	Ø	V.obj	NP-abs	Ø	NA	V.obj	NP-acc	Ø	NP-acc	Ø	NA
+LAUGH	laugher	subj.V	NP-abs V.subj	V.subj NP-nom	Ø	NA	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	Ø	NP-abs subj.V	NA	NA	Ø	V.subj	NP-abs & V.subj	Ø	NA	V.sbj	NA	Ø	Ø	Ø	NA
+LEAVE	leaver	subj.V	NP-abs V.subj	V.subj NP-nom	Ø	NP-abs & absAgr.V	Ø (NP-nom)	NA	NA	NP-nom V.subj	NA	NP-nom & V.subj	V.subj	Ø	NP-erg subj.V	NA	NA	Ø	V.subj	NP-erg & V.subj	Ø	NA	V.sbj	Ø	Ø	NA	Ø	NA
+LEAVE	leaving goal	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	per+NP	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+LEAVE	leaving source	loc/all/abl	NP-abm	NP-acc	Ø	NP-in-abl	NP-abl	NA	NA	NP-abl	NA	NP-acc	Ø	NA	NP-abs obj.V	NA	NA	Ø	NP+mew	NP-abs & obj.V	Ø	NA	V.obj	NP-abl	Ø	NA	Ø	NA
+LIKE	liked entity	obj.V	NA	NP-acc	Ø	NP-abs & absAgr.V	NP-acc	NA	NA	NP-acc	und.V	NP-nom & V.subj	V.subj	NA	NP-abs obj.V	NA	NA	NP+ye	V.obj	NP-abs & obj.V	Ø	NP-nom & V.subj	NA	NP-acc	Ø	NP-acc	Ø	jiʔį̀+NP
+LIKE	liker	subj.V	NA	V.subj NP-nom	Ø	NP-lat	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NP-dat	a+NP	Ø	NP-erg subj.V	NA	NA	Ø	V.subj	NP-erg & V.subj	Ø	NP-dat	NA	NP-dat	Ø	Ø	Ø	Ø
+LIVE	liver	subj.V	NP-abs V.subj	V.subj NP-nom	NA	NA	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	NA	NP-abs subj.V	NA	NA	NA	V.subj	NP-abs & V.subj	Ø	NA	NA	Ø	Ø	Ø	Ø	Ø
+LIVE	living place	loc/all/abl	NP-loc	fī+NP-gen	NA	NA	NP-loc	NA	NA	NP-loc	-eeja/LOC	í+NP-dat	in/a/su+NP	NA	NP-loc/-purp	NA	NA	NA	NP+mew	NA	Ø	NA	NA	NA	ti/tö+NP	NP-loc	ní+NP	jiʔį̀+NP
+LOAD	loaded thing	obj.V	NP-abm	NP-acc	NA	NA	NP-acc	NA	NA	NP-acc	act.V	NP-dat	Ø	NA	NA	NA	NA	NA	NP+mew	NP-abs & obj.V	Ø	NA	V.obj	NP-acc	ngê+NP	NP-acc	Ø	NA
+LOAD	loader	subj.V	NP-rel V.subj	V.subj NP-nom	NA	NA	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	NA	NA	NA	NA	NA	V.subj	NP-erg & V.subj	Ø	NA	V.sbj	Ø	Ø	Ø	Ø	NA
+LOAD	loading place	NA	NP-abs V.obj	ʿalâ+NP-gen	NA	NA	NP-adl	NA	NA	NP-loc	-eeja/LOC	á+NP-acc	su+NP	NA	NA	NA	NA	NA	V.obj	NA	ng+NP	NA	NA	NA	Ø	NP-loc	LOC	NA
+LOOK AT	looked at entity	all	NA	ʾilâ+NP-gen	Ø	NP-poss	NP-acc	NA	NA	NP-all	und.V	á+NP-acc	Ø	Ø	NP-abs obj.V	NA	NA	Ø	V.obj	NP-abs & obj.V	Ø	NA	V.obj	NP-acc	Ø	NP-acc	Ø	jiʔį̀+NP
+LOOK AT	looker	subj.V	NA	V.subj NP-nom	Ø	NP-abs & absAgr.V	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	Ø	NP-erg subj.V	NA	NA	Ø	V.subj	NP-erg & V.subj	Ø	NA	V.sbj	Ø	Ø	Ø	Ø	Ø
+MAKE	made thing	obj.V	NA	NP-acc	NA	NA	NA	NA	NA	NA	und.V	NA	Ø	Ø	NP-abs obj.V	NA	NA	Ø	NA	NP-abs & obj.V	NA	NA	V.obj	NP-acc	NA	NA	Ø	NA
+MAKE	maker	subj.V	NA	V.subj NP-nom	NA	NA	NA	NA	NA	NA	act.V	NA	V.subj	Ø	NP-erg subj.V	NA	NA	Ø	NA	NP-erg & V.subj	NA	NA	V.sbj	Ø	NA	NA	Ø	NA
+MAKE	making material	instr	NA	min+NP-gen	NA	NA	NA	NA	NA	NA	NA	NA	di+NP	NA	NA	NA	NA	NP+ti	NA	NA	NA	NA	NA	NP-abl	NA	NA	NA	NA
+MEET	meeter	subj.V	NP-rel V.subj	V.subj NP-nom	Ø	NA	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	Ø	NP-erg subj.V	NA	NA	Ø	NA	NP-erg & V.subj	Ø	NA	NA	NP-assoc	NP+mê+NP	Ø	Ø	NA
+MEET	met person	obj.V	NP-abs V.obj	NP-acc	Ø	NA	NP-acc	NA	NA	NP-acc	und.V	NP-acc	Ø	Ø	NP-abs obj.V	NA	NA	Ø	NA	NP-abs & obj.V	Ø	NA	NA	NP-assoc	NP+mê+NP	NP-acc	Ø	NA
+NAME	name	obj.V	NA	NP-acc	Ø	NA	NP-acc	NA	NA	NP-instr	unmarked NP	NP-acc	Ø	NA	NP-abs	NA	NA	NP+la	Ø	NA	Ø	NA	NA	NA	ngê+NP	NA	ní+NP	NA
+NAME	namee	dat	NA	NP-acc	Ø	NP-sup	NP-acc	NA	NA	NP-acc	und.V	NP-acc	Ø	NA	NP-abs obj.V	NA	NA	Ø	V.obj	NP-abs	ng+NP	NA	V.obj	NA	Ø	NA	Ø	NA
+NAME	namer	subj.V	NA	V.subj NP-nom	Ø	NP-erg	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	NA	NP-erg subj.V	NA	NA	Ø	V.subj	NP-abs & V.subj	Ø	NA	V.sbj	NA	Ø	NA	Ø	NA
+PEEL	peel	NA	NP-abs V.obj	NP-acc	NA	NA	NP-acc	NA	NA	NA	und.V	af+NP-dat	NA	NA	NA	NA	NA	NA	NA	NP-abs & obj.V	NA	NA	NA	NA	NA	NP-acc	NA	NA
+PEEL	peeled object	NA	NP-abm	min+NP-gen	Ø	NA	NA	NA	NA	NP-acc	NA	NP-acc	Ø	Ø	NA	NA	NA	NA	V.obj	NA	NA	NA	V.obj	NA	Ø	NA	NA	jiʔį̀+NP
+PEEL	peeler	subj.V	NP-rel V.subj	V.subj NP-nom	Ø	NA	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	Ø	NA	NA	NA	NA	V.subj	NP-erg & V.subj	NA	NA	V.sbj	Ø	Ø	Ø	NA	Ø
+PLAY	player	subj.V	NP-abs V.subj	V.subj NP-nom	Ø	NA	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NA	V.subj	NA	NP-abs subj.V	NA	NA	Ø	NA	NP-abs & V.subj	Ø	NA	V.sbj	Ø	Ø	Ø	Ø	NA
+POUR	poured substance	obj.V	NP-abm	NA	Ø	NP-abs & absAgr.V	NP-acc	NA	NA	NP-acc	act.V	NP-dat	Ø	Ø	NP-abs obj.V	NA	NA	Ø	V.obj	NA	Ø	NA	V.obj	NP-acc	Ø	NP-acc	Ø	NA
+POUR	pourer	subj.V	NP-rel V.subj	NA	Ø	NP-erg	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	Ø	NP-erg subj.V	NA	NA	Ø	V.subj	NA	Ø	NA	V.sbj	Ø	Ø	Ø	Ø	NA
+POUR	pouring goal	NA	NP-abs V.obj	NA	ke+NP	NP-in-ess	NP-adl	NA	NA	NP-loc	-eeja/LOC	í+NP-acc	in/a/su+NP	ke+NP	NP-loc/-all	NA	NA	LOC	NP+mew	NA	NA	NA	NA	NA	ti/tö+NP	NP-loc	LOC	NA
+PUSH	pushee	NA	NP-abs V.obj	NA	NA	NA	NA	NA	NA	NA	act.V	NA	Ø	Ø	NP-abs obj.V	NA	NA	Ø	V.obj	NP-abs & obj.V	Ø	NA	V.obj	NA	Ø	NP-acc	Ø	NA
+PUSH	pusher	NA	NP-rel V.subj	NA	NA	NA	NA	NA	NA	NA	act.V	NA	V.subj	Ø	NP-erg subj.V	NA	NA	Ø	V.subj	NP-erg & V.subj	Ø	NA	V.sbj	NA	Ø	Ø	Ø	NA
+PUSH	pushing goal	NA	NP-all	NA	NA	NA	NA	NA	NA	NA	-eeja/LOC	NA	in/a/su+NP	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NP-dir	NA	NA
+PUT	put thing	obj.V	NP-abs V.obj	NA	Ø	NA	NP-acc	NA	NA	NP-acc	act.V	NP-acc	Ø	NA	NP-abs obj.V	NA	NA	NA	NA	NP-abs & obj.V	Ø	NA	V.obj	NP-acc	Ø	NP-acc	Ø	NA
+PUT	putter	subj.V	NP-rel V.subj	NA	Ø	NA	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	NA	NP-erg subj.V	NA	NA	NA	NA	NP-erg & V.subj	Ø	NA	V.sbj	Ø	Ø	Ø	Ø	NA
+PUT	putting goal	loc/all	NP-all	NA	di+NP	NA	NP-adl	NA	NA	NP-loc	-eeja/LOC	á+NP-acc	in/a/su+NP	NA	NP-loc/-all	NA	NA	NA	NA	NP-loc	ng+NP	NA	obl-NP	NA	xû+NP	NP-loc	sí+NP	NA
+RAIN	rain	subj.V	NA	NA	NA	NA	Ø (NP-nom)	NA	NA	NP-nom V.subj	NA	NA	rain & V.subj	NA	NA	NA	NA	NA	NA	NP-abs & V.subj	Ø	NA	NA	NA	Ø	NA	NA	NA
+ROLL	roller	subj.V	NA	V.subj NP-nom	Ø	NP-abs & absAgr.V	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	Ø	NP-abs subj.V	NA	NA	Ø	V.subj	NP-erg & V.subj	NA	NA	V.sbj	NA	Ø	Ø	Ø	NA
+RUN	runner	subj.V	NP-abs V.subj	V.subj NP-nom	Ø	NP-erg	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	Ø	NP-abs subj.V	NA	NA	Ø	V.subj	NP-abs & V.subj	Ø	NA	V.sbj	Ø	Ø	Ø	Ø	NA
+SAY	said content	obj.V	NA	Ø	Ø	NP-quot	NA	NA	NA	NP-acc	NA	NA	Ø	NA	NA	NA	NA	NA	Ø	NP-abs	NA	NA	NA	Ø	Ø	Ø	NA	Ø
+SAY	sayer	subj.V	NA	V.subj NP-nom	Ø	NP-erg	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NA	V.subj	Ø	NA	NA	NA	Ø	V.subj	NP-abs & V.subj	Ø	NA	V.sbj	Ø	Ø	Ø	NA	Ø
+SAY	saying addressee	dat	NA	li+NP-gen	teken+NP	NP-poss	NP-acc	NA	NA	NP-all	NA	NA	a+NP	NA	NA	NA	NA	Ø	V.obj	NP-dat	NA	NA	V.obj	NP-dat	xù+NP	NP-dir	NA	jiʔį̀+NP
+SCREAM	screamer	subj.V	NP-abs V.subj	V.subj NP-nom	Ø	NP-erg	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	Ø	NA	NA	NA	Ø	V.subj	NP-abs & V.subj	NA	NA	V.sbj	Ø	Ø	Ø	Ø	NA
+SEARCH FOR	searched thing	obj.V	NP-abs V.obj	ʿan+NP-gen	Ø	NP-abs & absAgr.V	NP-acc	NA	NA	NP-acc	und.V	að+NP-dat	Ø	Ø	NP-dat V=pro.dat	NA	NA	Ø	V.obj	NP-abs & obj.V	Ø	NA	V.obj	NP-acc	Ø	NP-loc	Ø	jiʔį̀+NP
+SEARCH FOR	searcher	subj.V	NP-rel V.subj	V.subj NP-nom	Ø	NP-erg	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	Ø	NP-abs subj.V	NA	NA	Ø	V.subj	NP-erg & V.subj	Ø	NA	V.sbj	Ø	Ø	Ø	Ø	Ø
+SEE	seeer	subj.V	NA	V.subj NP-nom	Ø	NP-lat	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	Ø	NP-erg subj.V	NA	NA	Ø	V.subj	NP-erg & V.subj	Ø	NA	V.sbj	Ø	Ø	Ø	Ø	Ø
+SEE	seen entity	obj.V	NA	NP-acc	Ø	NP-abs & absAgr.V	NP-acc	NA	NA	NP-acc	und.V	NP-acc	Ø	Ø	NP-abs obj.V	NA	NA	Ø	V.obj	NP-abs & obj.V	Ø	NA	V.obj	NA	Ø	NP-acc	Ø	jiʔį̀+NP
+SEND	sender	subj.V	NP-rel V.subj	V.subj NP-nom	Ø	NA	Ø (NP-nom)	NA	NA	NP-nom V.subj	NA	NP-nom & V.subj	V.subj	NA	NP-erg subj.V	NA	NA	Ø	V.subj	NP-erg & V.subj	Ø	NA	NA	Ø	Ø	Ø	Ø	NA
+SEND	sending recipient	dat	NA	ʾilâ+NP-gen	ke+NP	NA	NP-adl	NA	NA	NP-loc	NA	til+NP-gen	a+NP	NA	NP-dat V=pro.dat	NA	NA	NP+ye	NP+mew	NP-dat & obj.V	NP-dat	NA	NA	NA	xù+NP	NP-dir	sí+NP	NA
+SEND	sent thing	obj.V	NA	NP-acc	Ø	NA	NP-acc	NA	NA	NP-acc	NA	NP-acc	Ø	NA	NP-abs obj.V	NA	NA	Ø	V.obj	NP-abs	Ø	NA	NA	NA	Ø	NP-acc	fi+NP	NA
+SHAVE	shaved person	obj.V	NA	NA	NA	NA	NP-acc	NA	NA	NP-acc	NA	NA	Ø	Ø	NA	NA	NA	Ø	NA	NP-abs & obj.V	NA	NA	V.obj	NA	NA	NA	Ø	NA
+SHAVE	shaver	subj.V	NP-abs V.subj	NA	Ø	NA	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	Ø	NP-abs subj.V	NA	NA	Ø	V.subj	NP-erg & V.subj	NA	NA	V.sbj	NA	Ø	Ø	Ø	NA
+SHOUT AT	shoutee	NA	NP-abs V.obj	ʾalâ+NP-gen	Ø	NP-sup	NP-acc	NA	NA	NP-all	NA	á+NP-acc	Ø	NA	NP-dat V=pro.dat	NA	NA	NA	V.obj	NP-abs & obj.V	NA	NA	V.obj	NP-dat	xù+NP	NP-dir	mó̩+NP	jiʔį̀+NP
+SHOUT AT	shouter	NA	NP-rel V.subj	V.subj NP-nom	Ø	NP-erg	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	Ø	NP-abs subj.V	NA	NA	NA	V.subj	NP-erg & V.subj	NA	NA	V.sbj	Ø	Ø	Ø	Ø	Ø
+SHOW	shower	subj.V	NP-rel V.subj	V.subj NP-nom	Ø	NA	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	Ø	NP-erg subj.V	NA	NA	Ø	V.subj	NP-erg & V.subj	Ø	NA	V.sbj	Ø	Ø	Ø	Ø	Ø
+SHOW	showing addressee	obj.V	NP-all	NP-acc	ke+NP	NA	NP-acc	NA	NA	NP-dat	NA	NP-dat	a+NP	ke+NP	NP-abs obj.V	NA	NA	NP+la	Ø	NP-dat	NP-dat	NA	V.obj	NA	xù+NP	NP-acc	Ø	jiʔį̀+NP
+SHOW	shown thing	NA	NP-abs V.obj	NP-acc	Ø	NA	NP-all	NA	NA	NP-acc	und.V	NP-acc	Ø	Ø	NP-abs	NA	NA	Ø	V.obj	NP-abs & obj.V	Ø	NA	obl-NP	NP-acc	Ø	NP-acc	fi+NP	jiʔį̀+NP
+SING	singer	subj.V	NP-abs V.subj	V.subj NP-nom	Ø	NA	Ø (NP-nom)	NA	NA	NP-nom V.subj	und.V	NP-nom & V.subj	V.subj	NA	NP-abs subj.V	NA	NA	NA	V.subj	NP-erg & V.subj	Ø	NA	V.sbj	Ø	Ø	Ø	Ø	Ø
+SINK	sunken entity	subj.V	NA	V.subj NP-nom	Ø	NA	Ø (NP-nom)	NA	NA	NP-nom V.subj	und.V	NP-nom & V.subj	V.subj	Ø	NP-abs subj.V	NA	NA	Ø	V.subj	NP-abs & V.subj	NA	NA	V.sbj	NP-acc	Ø	Ø	Ø	NA
+SIT DOWN	sitdowner	subj.V	NP-abs V.subj	V.subj NP-nom	Ø	NA	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	Ø	NP-abs subj.V	NA	NA	Ø	V.subj	NP-abs & V.subj	Ø	NA	NA	Ø	NA	Ø	NA	Ø
+SIT DOWN	sitting-down place	loc/all/abl	NP-all	NA	NA	NA	NP-adl	NA	NA	NP-loc	-eeja/LOC	á+NP-acc	in/a/su+NP	ama+NP	NA	NA	NA	NA	NP+mew	NA	Ø	NA	NA	NA	NA	NA	NA	nto+NP
+SIT	sitter	subj.V	NA	V.subj NP-nom	Ø	NA	Ø (NP-nom)	NA	NA	NP-nom V.subj	NA	NP-nom & V.subj	V.subj	Ø	NP-abs subj.V	NA	NA	Ø	V.subj	NP-abs & V.subj	NA	NA	V.sbj	Ø	Ø	Ø	Ø	Ø
+SIT	sitting place	loc/all/abl	NA	NA	di+NP	NA	NP-loc	NA	NA	NP-loc	NA	á+NP-dat	in/a/su+NP	di+NP	NA	NA	NA	LOC	NP+mew	NA	Ø	NA	obl-NP	NA	ti/tö+NP	NP-loc	LOC	jiʔį̀+NP
+SMELL	smelled entity	obj.V	NP-abs V.obj	NP-acc	Ø	NA	NP-acc	NA	NA	NP-acc	und.V	af+NP-dat	Ø	NA	NP-abs obj.V	NA	NA	Ø	V.obj	NP-abs & obj.V	Ø	NA	V.obj	NA	Ø	NP-acc	Ø	NA
+SMELL	smeller	subj.V	NP-rel V.subj	V.subj NP-nom	Ø	NA	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	NA	NP-erg subj.V	NA	NA	Ø	V.subj	NP-erg & V.subj	Ø	NA	V.sbj	Ø	Ø	Ø	Ø	NA
+STEAL	stealer	subj.V	NP-rel V.subj	V.subj NP-nom	NA	NA	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NA	V.subj	Ø	NP-erg subj.V	NA	NA	Ø	V.subj	NP-erg & V.subj	Ø	NA	V.sbj	Ø	Ø	Ø	Ø	Ø
+STEAL	stealing source	obj.V	NP-abm	min+NP-gen	NA	NA	NP-abl	NA	NA	NP-abl	NA	NA	a+NP	dari+NP	NA	NA	NA	NP+bulu	NA	NA	NA	NA	V.obj	NA	taa+NP	NA	NA	jiʔį̀+NP
+STEAL	stolen thing	NA	NP-abs V.obj	NP-acc	NA	NA	NP-acc	NA	NA	NP-acc	und.V	NA	Ø	Ø	NP-abs obj.V	NA	NA	Ø	V.obj	NP-abs & obj.V	Ø	NA	obl-NP	NP-acc	Ø	NP-acc	Ø	jiʔį̀+NP
+TAKE	taken thing	obj.V	NP-abs V.obj	NP-acc	Ø	NP-abs & absAgr.V	NP-acc	NA	NA	NP-acc	und.V	NP-acc	Ø	Ø	NP-abs obj.V	NA	NA	Ø	V.obj	NP-abs & obj.V	Ø	NA	V.obj	NP-acc	Ø	NP-acc	Ø	NA
+TAKE	taker	subj.V	NP-rel V.subj	V.subj NP-nom	Ø	NP-erg	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	Ø	NP-erg subj.V	NA	NA	Ø	V.subj	NP-erg & V.subj	Ø	NA	V.sbj	Ø	Ø	Ø	Ø	NA
+TAKE	taking source	NA	NP-abm	min+NP-gen	uli+NP	NP-poss-abl	NP-abl	NA	NA	NP-abl	NA	af+NP-dat	da+NP	dari+NP	NA	NA	NA	NP+bulu	NA	NP-dat-abl	ng+NP	NA	NA	NP-abl	taa+NP	NA	ní+NP	NA
+TALK	talked about content	NA	NA	ʿan+NP-gen	unduk+NP	NA	NP-instr	NA	NA	NP-prol	NA	um+NP-acc	di+NP	soal+NP	NA	NA	NA	Ø	NA	NP-abs	Ø	NA	niniǰi+NP	NP-abl	wâ+NP	NP-acc	NA	NA
+TALK	talked to person	obj.V	NA	maʿa+NP-gen	Ø	NA	NP-soc	NA	NA	NP-all	und.V	við+NP-acc	con+NP	ama+NP	NP-dat V=pro.dat	NA	NA	NP+ye	NA	NP-dat	NA	NA	V.obj	NP-dat	xù+NP	NP-dir	Ø	NA
+TALK	talker	subj.V	NA	V.subj NP-nom	Ø	NA	Ø (NP-nom)	NA	NA	NP-nom	act.V	NP-nom & V.subj	V.subj	Ø	NP-abs subj.V	NA	NA	Ø	NA	NP-abs & V.subj	Ø	NA	V.sbj	Ø	Ø	Ø	Ø	NA
+TEACH	taught content	NA	NP-abm	NP-acc	NA	NA	NP-acc	NA	NA	NA	unmarked NP	NA	Ø	Ø	NA	NA	NA	NP+la	Ø	NP-abs	NA	NA	obl-NP	Ø	ngê+NP	NP-acc	ní+NP	jiʔį̀+NP
+TEACH	teachee	NA	NP-abs V.obj	NP-acc	NA	NA	NP-adl	NA	NA	NA	und.V	NA	a+NP	NA	NA	NA	NA	Ø	V.obj	NP-dat & obj.V	NA	NA	V.obj	NP-dat	xù+NP	Ø	Ø	jiʔį̀+NP
+TEACH	teacher	NA	NP-rel V.subj	V.subj NP-nom	NA	NA	Ø (NP-nom)	NA	NA	NA	act.V	NA	V.subj	Ø	NA	NA	NA	Ø	V.subj	NP-erg & V.subj	NA	NA	V.sbj	Ø	Ø	Ø	Ø	Ø
+TEAR	tearer	subj.V	NP-rel V.subj	V.subj NP-nom	Ø	NP-erg	Ø (NP-nom)	NP-erg & V.subj	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	Ø	NP-erg subj.V	NA	NA	Ø	NA	NP-erg & V.subj	Ø	NA	V.sbj	Ø	Ø	Ø	Ø	NA
+TEAR	tearing source	obj.V	NP-abm	min+NP-gen	uli+NP	NP-inter-abl	NP-abl	NA	NA	NP-abl	NA	úr+NP-dat	da+NP	NA	NA	NA	NA	NP+bala	NA	NA	NA	NA	NA	NA	kèwâ+NP	NP-loc	NA	NA
+TEAR	torn thing	NA	NP-abs V.obj	NP-acc	Ø	NP-abs & absAgr.V	NP-acc	NA	NA	NP-acc	und.V	NP-acc	Ø	Ø	NP-abs obj.V	NA	NA	Ø	NA	NP-abs & obj.V	Ø	NA	V.obj	NP-acc	Ø	NP-acc	Ø	NA
+TELL	tellee	obj.V	NA	li+NP-gen	Ø	NA	NP-acc	NA	NA	NP-all	NA	við+NP-acc	a+NP	Ø	NP-abs obj.V	NA	NA	NP+ye	NA	NP-dat & obj.V	NP-dat	NA	V.obj	NP-dat	xù+NP	NP-acc	fún+NP	jiʔį̀+NP
+TELL	teller	subj.V	NA	V.subj NP-nom	Ø	NA	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	Ø	NP-erg subj.V	NA	NA	Ø	NA	NP-erg & V.subj	Ø	NA	V.sbj	Ø	Ø	Ø	Ø	Ø
+TELL	told content	NA	NA	NP-acc	Ø	NA	Ø (NP-nom)	NA	NA	NP-acc	und.V	Ø	Ø	Ø	NP-dat V=pro.dat	NA	NA	Ø	NA	NP-abs	Ø	NA	obl-NP	Ø	ngê+NP	NA	Ø	Ø
+THINK	thinker	subj.V	NP-rel V.subj	V.subj NP-nom	Ø	NA	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	NA	NP-abs subj.V	NA	NA	NA	V.subj	NP-erg & V.subj	Ø	NA	V.sbj	Ø	Ø	Ø	Ø	Ø
+THINK	thought content	obj.V	NP-abs V.obj	fī+NP-gen	Ø	NA	NP-acc	NA	NA	NP-acc	und.V	um+NP-acc	a+NP	NA	NP-dat V=pro.dat	NA	NA	NA	NP+mew	NP-abs & obj.V	CLS	NA	V.obj	NP-acc	Ø	Ø	nípa+NP	jiʔį̀+NP
+THROW	thrower	subj.V	NP-rel V.subj	V.subj NP-nom	Ø	NA	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	Ø	NP-erg subj.V	NA	NA	Ø	NA	NP-erg & V.subj	Ø	NA	V.sbj	Ø	Ø	Ø	Ø	Ø
+THROW	throwing goal	all	NP-abs V.obj	LOC	ke+NP	NA	NP-adl	NA	NA	NP-loc	und.V	inn um+NP-acc	in/a/su+NP	ke+NP	NA	NA	NA	Ø	NA	NA	ng+NP	NA	NA	NA	xù+NP	NP-loc	NA	LOC
+THROW	thrown thing	obj.V	NP-abm	NP-acc	Ø	NA	NP-acc	NA	NA	NP-acc	unmarked NP	NP-dat	Ø	Ø	NP-abs obj.V	NA	NA	NP+la	NA	NP-abs & obj.V	Ø	NA	V.obj	NP-acc	Ø	NP-acc	Ø	jiʔį̀+NP
+TIE	tied thing	obj.V	NP-abs V.obj	NP-acc	Ø	NP-abs & absAgr.V	NP-acc	NA	NA	NP-acc	und.V	NP-acc	Ø	Ø	NP-abs obj.V	NA	NA	Ø	NA	NP-abs & obj.V	Ø	NA	NA	NP-acc	Ø	NP-acc	Ø	NA
+TIE	tier	subj.V	NP-rel V.subj	V.subj NP-nom	Ø	NP-erg	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	Ø	NP-erg subj.V	NA	NA	Ø	NA	NP-erg & V.subj	Ø	NA	V.sbj	Ø	Ø	Ø	Ø	NA
+TIE	tying goal	loc/all	NP-all	ʾilâ+NP-gen	ke+NP	NP-inter	NP-abl	NA	NA	NP-loc	NA	við+NP-acc	a+NP	NA	NP-loc/-all	NA	NA	NP+bala	NA	NA	ng+NP	NA	NA	NA	ti/tö+NP	NP-dir	NA	NA
+TIE	tying instrument	instr	NA	NA	aji+NP	NA	NA	NA	NA	NA	NA	með+NP-dat	NA	NA	NA	NA	NA	NP+la	NA	NA	NA	NA	NA	NA	ngê+NP	NA	fi+NP	NA
+TOUCH	touchee	obj.V	NP-abs V.obj	NP-acc	Ø	NA	NP-acc	NA	NA	NP-acc	und.V	NP-acc	Ø	Ø	NP-abs obj.V	NA	NA	Ø	V.obj	NP-abs & obj.V	NA	NA	V.obj	NA	Ø	NP-acc	Ø	jiʔį̀+NP
+TOUCH	toucher	subj.V	NP-rel V.subj	V.subj NP-nom	Ø	NA	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	Ø	NP-erg subj.V	NA	NA	Ø	V.subj	NP-erg & V.subj	NA	NA	V.sbj	NA	Ø	Ø	Ø	Ø
+TOUCH	touching instrument	instr	NP-perl	bi+NP-gen	aji+NP	NA	NP-instr	NA	NA	NP-instr	NA	NA	con+NP	NA	NA	NA	NA	NP+la	NP+mew	NP-abl	NA	NA	NA	NA	NA	NA	fi+NP	lóʔò+NP
+WANT	wanted thing	obj.V	NA	NP-acc	NA	NA	NA	NA	NA	NA	und.V	NA	Ø	Ø	NP-abs obj.V	NA	NA	NP+la	V.obj	NA	Ø	NA	V.obj	NP-acc	Ø	NP-acc	Ø	jiʔį̀+NP
+WANT	wanter	subj.V	NA	V.subj NP-nom	NA	NA	NA	NA	NA	NA	act.V	NA	V.subj	Ø	NP-erg subj.V	NA	NA	Ø	V.subj	NP-abs & obj.V	Ø	NA	V.sbj	NP-dat	Ø	Ø	Ø	Ø
+WASH	washed entity	obj.V	NP-abs V.obj	NP-acc	Ø	NP-abs & absAgr.V	NP-acc	NA	NA	NP-acc	und.V	NP-dat	Ø	Ø	NA	NA	NA	Ø	V.obj	NP-abs & obj.V	Ø	NA	V.obj	NP-acc	Ø	NP-acc	Ø	NA
+WASH	washer	subj.V	NP-rel V.subj	V.subj NP-nom	Ø	NP-erg	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NP-nom & V.subj	V.subj	Ø	NA	NA	NA	Ø	V.subj	NP-erg & V.subj	Ø	NA	V.sbj	Ø	Ø	Ø	Ø	NA
+WIPE	wiped material	obj.V	NA	NP-acc	NA	NA	NP-acc	NA	NA	NP-acc	NA	NA	da+NP	Ø	NP-abs obj.V	NA	Ø	NA	V.obj	NP-abs & obj.V	NA	NA	V.obj	NP-acc	Ø	NA	Ø	NA
+WIPE	wiper	subj.V	NP-rel V.subj	V.subj NP-nom	NA	NA	Ø (NP-nom)	NA	NA	NP-nom V.subj	act.V	NA	V.subj	Ø	NP-erg subj.V	NA	Ø	Ø	V.subj	NP-erg & V.subj	NA	NA	V.sbj	Ø	Ø	Ø	Ø	NA
+WIPE	wiping surface	obj.V	NP-abs V.obj	ʿan+NP-gen	NA	NA	NP-abl	NA	NA	NP-abl	und.V	NA	Ø	NA	NA	NA	NA	Ø	NA	NA	NA	NA	NA	NP-abl	kè+NP	NP-acc	NA	NA

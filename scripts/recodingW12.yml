@@ -1,0 +1,43 @@
+title: ~
+author: ~
+date: '2019-03-04'
+originalData: ~
+selectRows: ~
+recoding:
+# ==========
+- recodingOf: 1a
+  attribute: consonants
+  values:
+    a: small
+    b: average
+    c: large
+  link:
+    Average: b
+    Large: c
+    Moderately large: c
+    Moderately small: a
+    Small: a
+  newData: ~
+  originalFrequency:
+    Average: 200
+    Large: 54
+    Moderately large: 92
+    Moderately small: 120
+    Small: 89
+  comments: ~
+# ==========
+- recodingOf: 2a
+  attribute: vowels
+  values:
+    - small
+    - large
+  link:
+    Average (5-6): 1
+    Large (7-14): 2
+    Small (2-4): 1
+  newData: ~
+  originalFrequency:
+    Average (5-6): 281
+    Large (7-14): 184
+    Small (2-4): 91
+  comments: ~
